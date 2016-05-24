@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartRobot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_begin">请开始说话...</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="tts_toast_format" formatted="false">缓冲进度为%d%%，播放进度为%d%%</string>
+
+    <string-array name="welcome_tips">
+        <item>Hello,how are you</item>
+        <item>我是小慕，很高兴为您服务</item>
+        <item>您好，请问有什么可以帮助您的</item>
+    </string-array>
+
+</resources>
